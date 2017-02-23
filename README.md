@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi everybody
+I am student and i like codes.
+I'm here to learn
